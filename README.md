@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Cloud Support and Devops
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janicetang713)](https://github.com/janicetang713/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janicetang713)](https://github.com/janicetang713/github-readme-stats)
 
 <!--
