@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Cloud Support and Devops
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janicetang713)](https://github.com/janicetang713/github-readme-stats)
 
 <!--
 **JaniceTang713/JaniceTang713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
