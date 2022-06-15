@@ -1,4 +1,4 @@
-### Hi there 👋 I am Janice. 
+## Hi there 👋 I am Janice. 
 
 🌱 I’m currently learning Cloud Support and Devops
 
